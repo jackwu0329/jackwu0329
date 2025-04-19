@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Hi 你好 我是GITHUB新手 這裡還在施工中
+什麼時候會弄好 不知道
 <!--
 **jackwu0329/jackwu0329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
